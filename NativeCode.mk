@@ -107,7 +107,6 @@ include $(BUILD_SHARED_LIBRARY)
 
 endif # LIBCORE_SKIP_TESTS
 
-
 #
 # Build for the host.
 #
